@@ -1,0 +1,23 @@
+img {
+    width: 80%;
+}
+
+a {
+    color: #FFF;
+}
+
+a:hover {
+    color: #0df10d;
+}
+
+p {
+    color: white
+}
+li {
+    display: inline-block;
+    background: black;
+    width: 40%;
+    border: 1px;
+    border-radius: 10%;
+}
+
