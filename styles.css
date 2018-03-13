@@ -21,3 +21,9 @@ li {
     border-radius: 10%;
 }
 
+.marquee
+{
+  speed: fast;
+}
+
+
